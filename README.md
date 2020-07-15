@@ -14,7 +14,8 @@ Sqlite
 :This are the language i usually use in my personal or client base projects   
 ```javascript
 Languages:
-Android,Java,Kotlin,Javascript,NodeJs,Vuejs,Typescript,Angular,Ionic,Quasar,Capacitor,Cordova,Python,CodeIgniter,Bootstrap,SASS,Unity
+Android,Java,Kotlin,Javascript,NodeJs,Vuejs,Typescript,Angular,Ionic,
+Quasar,Capacitor,Cordova,Python,CodeIgniter,Bootstrap,SASS,Unity
 
 Databases:
 Postgress,Mysql,Sqlite,NoSql PouchDB
