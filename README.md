@@ -29,15 +29,16 @@ NoSql PouchDB
 ```javascript
 Mobile 
 ```
- - Merchandiser  
- - [Survey](https://github.com/Jake21x/mycreations/tree/master/Lending%20App)   
- - [Lending](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) 
- - [GamixQuiz](https://github.com/Jake21x/mycreations/tree/master/C1%20GamixQuiz)  
- - [GAME OF THE GENERAL](https://github.com/Jake21x/mycreations/tree/master/Game%20Of%20The%20General)  
+ - Merchandiser (Work)
+ - Future Finder (Personal project with client)
+ - [Survey](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
+ - [Lending](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
+ - [GamixQuiz](https://github.com/Jake21x/mycreations/tree/master/C1%20GamixQuiz) (Personal project with client)
+ - [GAME OF THE GENERAL](https://github.com/Jake21x/mycreations/tree/master/Game%20Of%20The%20General) (School Project)  
 ```javascript
 Website 
 ```
- - [PMCN](https://github.com/Jake21x/mycreations/tree/master/PCMN)
+ - [PMCN](https://github.com/Jake21x/mycreations/tree/master/PCMN) (School Project as Intern)  
  
 **Contacts**
 :for inqueries you can ping me on
