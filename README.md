@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**Jake21x/Jake21x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technologies**
+:This are the language i usually use in my personal or client base projects
+```javascript
+Languages:
+Android,Java,Kotlin,Javascript,Vuejs,Typescript,Angular,Ionic,Quasar,Capacitor,Cordova,Python,Bootstrap
 
-Here are some ideas to get you started:
+Databases:
+Postgress
+Mysql
+Sqlite
+NoSql PouchDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+**Projects**
+:This are the projects i have done in the past
+```javascript
+Mobile 
+```
+ - Merchandiser  
+ - [Survey](https://github.com/Jake21x/mycreations/tree/master/Lending%20App)   
+ - [Lending](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) 
+ - [GamixQuiz](https://github.com/Jake21x/mycreations/tree/master/C1%20GamixQuiz)  
+ - [GAME OF THE GENERAL](https://github.com/Jake21x/mycreations/tree/master/Game%20Of%20The%20General)  
+```javascript
+Website 
+```
+ - [PMCN](https://github.com/Jake21x/mycreations/tree/master/PCMN)
