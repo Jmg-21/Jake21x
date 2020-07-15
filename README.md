@@ -1,7 +1,7 @@
 
 
 **Active Project** 
-:Im currently working on personal project to be release this year build with this technologies
+:Im currently working on personal project to be release this year built with this technologies
 ```javascript
 Languages:
 Android,Java,Javascript,Vuejs,Typescript,Quasar,Capacitor
