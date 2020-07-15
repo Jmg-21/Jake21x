@@ -14,13 +14,10 @@ Sqlite
 :This are the language i usually use in my personal or client base projects   
 ```javascript
 Languages:
-Android,Java,Kotlin,Javascript,Vuejs,Typescript,Angular,Ionic,Quasar,Capacitor,Cordova,Python,Bootstrap
+Android,Java,Kotlin,Javascript,NodeJs,Vuejs,Typescript,Angular,Ionic,Quasar,Capacitor,Cordova,Python,CodeIgniter,Bootstrap,SASS,Unity
 
 Databases:
-Postgress
-Mysql
-Sqlite
-NoSql PouchDB
+Postgress,Mysql,Sqlite,NoSql PouchDB
 
 ```
 
@@ -34,11 +31,11 @@ Mobile
  - [Survey](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
  - [Lending](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
  - [GamixQuiz](https://github.com/Jake21x/mycreations/tree/master/C1%20GamixQuiz) (Personal project with client)
- - [GAME OF THE GENERAL](https://github.com/Jake21x/mycreations/tree/master/Game%20Of%20The%20General) (School Project)  
+ - [GAME OF THE GENERAL](https://github.com/Jake21x/mycreations/tree/master/Game%20Of%20The%20General) (School Project using Unity)  
 ```javascript
 Website 
 ```
- - [PMCN](https://github.com/Jake21x/mycreations/tree/master/PCMN) (School Project as Intern)  
+ - [PMCN](https://github.com/Jake21x/mycreations/tree/master/PCMN) (School Project as Intern using CodeIgniter)  
  
 **Contacts**
 :for inqueries you can ping me on
