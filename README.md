@@ -11,7 +11,7 @@ Sqlite
 ```
 
 **Technologies**
-:This are the language i usually use in my personal or client base projects   
+:This are the language i usually use in work,personal & personal client base projects   
 ```javascript
 Languages:
 Android,Java,Kotlin,Javascript,NodeJs,Vuejs,Typescript,Angular,Ionic,
@@ -32,6 +32,7 @@ Mobile
  - [Survey](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
  - [Lending](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
  - [GamixQuiz](https://github.com/Jake21x/mycreations/tree/master/C1%20GamixQuiz) (Personal project with client)
+ - [SHOMAL RESTURANT](https://github.com/Jake21x/mycreations/tree/master/Shomal%20App) (School Project Android Java)  
  - [GAME OF THE GENERAL](https://github.com/Jake21x/mycreations/tree/master/Game%20Of%20The%20General) (School Project using Unity)  
 ```javascript
 Website 
