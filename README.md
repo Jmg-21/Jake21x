@@ -21,7 +21,7 @@ Databases:
 Postgress,Mysql,Sqlite,NoSql PouchDB
 
 ```
-
+ 
 **Projects**
 :This are the projects i have done in the past
 ```javascript
@@ -31,13 +31,16 @@ Mobile
  - Future Finder (Personal project with client)
  - [Survey](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
  - [Lending](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
- - [GamixQuiz](https://github.com/Jake21x/mycreations/tree/master/C1%20GamixQuiz) (Personal project with client)
- - [SHOMAL RESTURANT](https://github.com/Jake21x/mycreations/tree/master/Shomal%20App) (School Project Android Java)  
- - [GAME OF THE GENERAL](https://github.com/Jake21x/mycreations/tree/master/Game%20Of%20The%20General) (School Project using Unity)  
+ - [GamixQuiz](https://github.com/Jake21x/mycreations/tree/master/C1%20GamixQuiz) (Personal project with client | 2016)
+ - [SHOMAL RESTURANT](https://github.com/Jake21x/mycreations/tree/master/Shomal%20App) (School Capstone Project Android Java | 2016)  
+ - [GAME OF THE GENERAL](https://github.com/Jake21x/mycreations/tree/master/Game%20Of%20The%20General) (School Project using Android Java | 2016)  
+ - [Little Einstein Educational Game](GooglePlay link: https://play.google.com/store/apps/details?id=om.teamEngineers.bsit3e2015&hl=en) (School Project using Unity)  
+   (2015 – Software Engineering project )
 ```javascript
 Website 
 ```
- - [PMCN](https://github.com/Jake21x/mycreations/tree/master/PCMN) (School Project as Intern using CodeIgniter)  
+ - [PMCN](https://github.com/Jake21x/mycreations/tree/master/PCMN) (School Project as Intern using CodeIgniter | 2016)  
+  
  
 **Contacts**
 :for inqueries you can ping me on
