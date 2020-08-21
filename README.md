@@ -28,7 +28,7 @@ Postgress,Mysql,Sqlite,NoSql PouchDB
 Mobile 
 ```
  - Merchandiser (Work)
- - Future Finder (Personal project with client)
+ - Future Finder (Personal project with client | 2019)
  - [Survey](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
  - [Lending](https://github.com/Jake21x/mycreations/tree/master/Lending%20App) (Work)
  - [GamixQuiz](https://github.com/Jake21x/mycreations/tree/master/C1%20GamixQuiz) (Personal project with client | 2016)
