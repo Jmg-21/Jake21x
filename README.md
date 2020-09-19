@@ -4,7 +4,7 @@
 :Im currently working on personal project to be release this year built with this technologies
 ```javascript
 Languages:
-Android,Java,Vuejs,Typescript,Quasar,Capacitor
+Android,Java,React(CRA),Material-UI,Capacitor
 
 Database:
 Sqlite  
