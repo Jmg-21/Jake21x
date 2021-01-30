@@ -17,7 +17,7 @@ Amazon RDS,PostgreSQL,Vercel,Nextjs,ChakraUI,PWA ServiceWorkers,Firebase
 ```javascript
 Languages:
 Android,Java,Kotlin,Javascript,NodeJs,Reactjs,Nextjs,Vuejs,Typescript,Angular,Ionic,
-Quasar,Capacitor,Cordova,Python,CodeIgniter,Bootstrap,SASS,Unity
+Quasar,Capacitor,Cordova,Python,Flask,CodeIgniter,Bootstrap,Tailwind,SASS
 
 Databases:
 Postgress,Mysql,Sqlite,NoSql PouchDB
