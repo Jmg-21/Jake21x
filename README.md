@@ -1,20 +1,22 @@
 
 
 **Active Project** 
-:Im currently working on personal project to be release this year built with this technologies
-```javascript
-Languages:
-Android,Java,React(CRA),Material-UI,Capacitor
+:Im currently working on personal project aside from work hopefully to finish this year built with this technologies
 
-Database:
-Sqlite  
+**[notes and task/schedule manager (name not yet revealed)]** 
+```javascript
+Android,React(CRA),Material-UI,Capacitor,Sqlite,Firebase  
+```
+**[online church data monitoring system]** 
+```javascript
+Amazon RDS,PostgreSQL,Vercel,Nextjs,ChakraUI,PWA ServiceWorkers,Firebase
 ```
 
-**Technologies**
+**Technologies and Frameworks**
 :This are the language i usually use in work,personal & personal client base projects   
 ```javascript
 Languages:
-Android,Java,Kotlin,Javascript,NodeJs,Vuejs,Typescript,Angular,Ionic,
+Android,Java,Kotlin,Javascript,NodeJs,Reactjs,Nextjs,Vuejs,Typescript,Angular,Ionic,
 Quasar,Capacitor,Cordova,Python,CodeIgniter,Bootstrap,SASS,Unity
 
 Databases:
@@ -46,5 +48,6 @@ Website
 ```javascript
 Gmail: jakegarbo21@gmail.com
 Mobile: 09954164082
+https://jmg-works.web.app/ [not yet finished]
 https://mobile.twitter.com/jake214u
 https://stackoverflow.com/users/7698200/jake-garbo?tab=profile
